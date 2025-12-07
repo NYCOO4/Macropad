@@ -6,14 +6,14 @@ A Marcopad with 6 keys, a rotary encoder and 4 SK6812 LEDs. It uses a rp2040 and
 It is designed to make desktop and window mangement in Windows easier.
 
 ## Features:
-- A simple case, that shows of the PCB and Components.
+- A simple case, that shows off the PCB and Components.
 - EC11 Rotary 
 - 4 SK6812 RGB LEDs. They just look good
 - 6 Keys, for any Marcos
 
 ## CASE
 <img width="884" height="688" alt="Screenshot 2025-12-07 200204" src="https://github.com/user-attachments/assets/2f21ef58-6bc9-4ecd-a06f-f4e6d4e286d1" />
-A simple case that just needs one part and nothing else. It is tilted 25 degrees. It´s designed to be very minimal to show of the PCB and Components.
+A simple case that just needs one part and nothing else. It is tilted 25 degrees. It´s designed to be very minimal to show off the PCB and Components.
 <img width="652" height="435" alt="Screenshot 2025-12-07 200149" src="https://github.com/user-attachments/assets/c7f47363-772e-4cf6-b0f1-e4877dc524eb" />
 
 ## PCB
