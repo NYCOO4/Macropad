@@ -22,7 +22,7 @@ Here we have the PCB and the schematic.
 
 <img width="1036" height="648" alt="Screenshot 2025-12-07 200001" src="https://github.com/user-attachments/assets/869c7349-cd14-41e3-98e2-da5280955797" />
 
-##BOM
+## BOM
 What you need except for the Case, PCB and Firmware
 
 - 4x Cherry MX Switches
