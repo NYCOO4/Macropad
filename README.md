@@ -29,8 +29,8 @@ Here we have the PCB and the schematic.
 ## BOM
 What you need except for the Case, PCB and Firmware
 
-- 4x Cherry MX Switches
-- 4x DSA Keycaps
+- 6x Cherry MX Switches
+- 6x DSA Keycaps
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
 - 4x SK6812 LEDs
